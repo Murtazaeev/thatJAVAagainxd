@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e26c13db-da7d-4178-a210-1592c353ddd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="22gY0YCZXhlaSfatTZKC24j8JdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DatabaseConnectivity" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\DatabaseConnection_TM_S19354\src\main\java" />
+      <recent name="C:\Users\user\IdeaProjects\DatabaseConnection_TM_S19354\src\test\java\repositorytest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GroupRepositoryTest.add">
+    <configuration name="setup" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/java/setup" />
+      <script-mode>FILE</script-mode>
+      <data-source id="5f95dfa4-f686-428e-b76a-d7cbb801501e" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GroupRepositoryTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DatabaseConnection_TM_S19354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositoryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositoryTests" />
+      <option name="MAIN_CLASS_NAME" value="repositoryTests.GroupRepositoryTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupRepositoryTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DatabaseConnection_TM_S19354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositoryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositoryTests" />
+      <option name="MAIN_CLASS_NAME" value="repositoryTests.GroupRepositoryTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DatabaseConnection_TM_S19354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositoryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositoryTests" />
+      <option name="MAIN_CLASS_NAME" value="repositoryTests.UserRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DatabaseConnection_TM_S19354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositoryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositoryTests" />
+      <option name="MAIN_CLASS_NAME" value="repositoryTests.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DatabaseConnection_TM_S19354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositoryTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositoryTests" />
+      <option name="MAIN_CLASS_NAME" value="repositoryTests.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GroupRepositoryTest.add" />
+        <item itemvalue="JUnit.GroupRepositoryTest.update" />
+        <item itemvalue="JUnit.UserRepositoryTest" />
+        <item itemvalue="JUnit.UserRepositoryTest.add" />
+        <item itemvalue="JUnit.UserRepositoryTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e26c13db-da7d-4178-a210-1592c353ddd6" name="Default Changelist" comment="" />
+      <created>1640260474252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640260474252</updated>
+      <workItem from="1640260477438" duration="8674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1640269326949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640269326949" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640269312552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640269312552" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1640263208048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1640263208048" />
+    <state x="591" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1640268511770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640260770093" />
+    <state x="591" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1640268511770" />
+    <state x="566" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1640268512979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640260774195" />
+    <state x="566" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1640268512979" />
+    <state x="378" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1640263184908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="378" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640261834155" />
+    <state x="378" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1640263184908" />
+    <state x="484" y="61" key="#setup" timestamp="1640269345866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="61" key="#setup/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640269345866" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1640268703387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640261012041" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640268703387" />
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom" timestamp="1640270140233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640270140233" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="343" key="GridCell.Tab.0.center" timestamp="1640270140233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640270140233" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="343" key="GridCell.Tab.0.left" timestamp="1640270140233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640270140233" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="343" key="GridCell.Tab.0.right" timestamp="1640270140233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="343" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640270140233" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1640268929533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1640268929533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1640268929533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1640268929533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640268929533" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1640269283318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824/1920.0.2560.1400@0.0.1536.824" timestamp="1640269283318" />
+  </component>
+</project>
